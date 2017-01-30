@@ -23,7 +23,7 @@
             }
 
             // In case they're equal, you probably want to use more factors.
-            // But for the sake of simplicity, we'll return Point A.
+            // But for the sake of this test, we'll return Point A.
             return _pointA;
         }
     }
